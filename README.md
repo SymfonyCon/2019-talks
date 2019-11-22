@@ -185,7 +185,7 @@ However, most of these deal with the problem starting from an utopian assumption
 This talk is a case history in which I will tell you (with little theory and a lot of practical examples) how we decided to add event sourcing to an already existing project (without eradicating the rest or rewriting it), to solve a specific problem (reporting and its history) for which this methodology proved to be the perfect solution.</dd>
 </dl>
 
-[Slides](https://alessandrolai.dev/slides/2019-11-event-sourcing-symfonycon/#/title)
+[Slides](https://alessandrolai.dev/slides/2019-11-event-sourcing-symfonycon/)  
 ~~Video~~
 
 By [Alessandro Lai](https://connect.symfony.com/profile/jean85)  
@@ -312,7 +312,7 @@ By [Magnus Nordlander](https://connect.symfony.com/profile/magnusnordlander)
   <dd>While PHPUnit is not difficult to set up and writing tests with it is easy, you will get better results and save development time if you know the tips and tricks to leverage PHPUnit more effectively. This session, presented by the creator of PHPUnit, teaches best practices you can use to ensure that your unit testing effort is efficiently implemented.</dd>
 </dl>
 
-[Slides](https://thephp.cc/dates/2019/11/symfonycon/phpunit-best-practices)
+[Slides](https://thephp.cc/presentations/2019-symfonycon-phpunit-best-practices.pdf)  
 ~~Video~~
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
@@ -535,7 +535,7 @@ I will show how we can build applications that responds in less that 15ms and th
 No, this is not a Varnish talk.</dd>
 </dl>
 
-[Slides](https://nyholm.tech/media/building-really-fast-applications/assets/player/KeynoteDHTMLPlayer.html#0)  
+[Slides](https://nyholm.tech/media/building-really-fast-applications/sfcon-amsterdam.pdf)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
