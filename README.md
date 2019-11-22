@@ -185,7 +185,7 @@ However, most of these deal with the problem starting from an utopian assumption
 This talk is a case history in which I will tell you (with little theory and a lot of practical examples) how we decided to add event sourcing to an already existing project (without eradicating the rest or rewriting it), to solve a specific problem (reporting and its history) for which this methodology proved to be the perfect solution.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://alessandrolai.dev/slides/2019-11-event-sourcing-symfonycon/)  
 ~~Video~~
 
 By [Alessandro Lai](https://connect.symfony.com/profile/jean85)  
@@ -312,7 +312,7 @@ By [Magnus Nordlander](https://connect.symfony.com/profile/magnusnordlander)
   <dd>While PHPUnit is not difficult to set up and writing tests with it is easy, you will get better results and save development time if you know the tips and tricks to leverage PHPUnit more effectively. This session, presented by the creator of PHPUnit, teaches best practices you can use to ensure that your unit testing effort is efficiently implemented.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://thephp.cc/presentations/2019-symfonycon-phpunit-best-practices.pdf)  
 ~~Video~~
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
@@ -330,7 +330,7 @@ By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)
 We had to tackle problems regarding the implementation of tax laws in 18 different countries, dozens of translations (including Arabic), multiple role systems, different timezones, overall struggle with a complicated logic with an infinite number of branches, and more. Are you interested? Sign up for the talk.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/antonioperic/using-api-platform-to-build-ticketing-system-number-symfonycon)  
 ~~Video~~
 
 By [Antonio Peric-Mazar](https://connect.symfony.com/profile/antonioperic)  
@@ -348,7 +348,7 @@ By [Antonio Peric-Mazar](https://connect.symfony.com/profile/antonioperic)
 In this presentation, I will talk about how extensively we use Twig in a complex open-source e-commerce project.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/AndreyYatsenco/make-the-most-of-twig-196422158)  
 ~~Video~~
 
 By [Andrii Yatsenko](https://connect.symfony.com/profile/andrey)  
@@ -364,7 +364,7 @@ By [Andrii Yatsenko](https://connect.symfony.com/profile/andrey)
   <dd>Mental health is an important part of life, yet mental illness is big. Perhaps bigger than you might think when looking around you. In this talk, you'll be introduced to some basics on mental health and mental illness, and given some tips and handholds on how to handle mental illness on the work floor.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/skoop/mental-health-in-the-workplace-symfonycon-2019-amsterdam)  
 ~~Video~~
 
 By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)  
@@ -398,7 +398,7 @@ By [Michelle Sanver](https://connect.symfony.com/profile/michellesanver)
 The Symfony Serializer Component makes it possible to manage how you want to serialize objects for JSON, XML or other formats. Also, you can manage responses using serialization groups, choosing which properties you want, handling serialization depth and much more.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/jucabrera/symfony-serializer-component)  
 ~~Video~~
 
 By [Juciellen Cabrera](https://connect.symfony.com/profile/jucycabrera)  
@@ -535,7 +535,7 @@ I will show how we can build applications that responds in less that 15ms and th
 No, this is not a Varnish talk.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://nyholm.tech/media/building-really-fast-applications/sfcon-amsterdam.pdf)  
 ~~Video~~
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
