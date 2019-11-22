@@ -1,7 +1,7 @@
 # [SymfonyCon - Amsterdam 2019](https://amsterdam2019.symfony.com/) talks
 
 - All talks are in **english**.
-- No joind.in available yet
+- You can send feedback and love to speakers on their twitter account
 
 ## Keynote
 
@@ -207,7 +207,7 @@ During this presentation, we’ll learn how to design our APIs to be able to max
 HATEOAS is the new hype!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/dunglas/2-server-push-and-the-rise-of-client-driven-rest-apis)  
 ~~Video~~
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
@@ -515,7 +515,7 @@ By [Tugdual Saunier](https://connect.symfony.com/profile/tucksaun)
   <dd>You've heard about AI for some time. But it remains obscure for you. How does it work, what is behind this word? If for you, reading white papers or doctoral papers is not your thing, that the Tensorflow doc is just a big pile of words for you, and if you've seen unclear presentations using the same vocabulary without really giving you an idea of how it works and how to implement an AI at home... This presentation is for you. At its end, you will be able to play with an AI, simple, but that will serve as a gateway to the beautiful world of machine-learning.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/gregoirehebert/together-toward-an-ai-plus-ultra)  
 ~~Video~~
 
 By [Grégoire Hébert](https://connect.symfony.com/profile/gregoirehebert)  
