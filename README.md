@@ -602,4 +602,18 @@ And [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
 
 # Unconf Talks
 
+--- 
+
+## A love story starring Symfony and Domain-Driven Design
+
+<dl>
+  <dt>Description</dt>
+  <dd>This is the story of how I discovered Domain-Driven Design, what happened when I tried to apply it to a Symfony framework project, and what are the key takeaways.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/romaricdrigon/a-love-story-starring-symfony-and-domain-driven-design)
+
+By [Romaric Drigon](https://connect.symfony.com/profile/romaricdrigon)  
+![github](icon/github.png) [@romaricdrigon](https://github.com/romaricdrigon)  
+![twitter](icon/twitter.png) [@romaric](https://twitter.com/romaricdrigon)
 
