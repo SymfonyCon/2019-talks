@@ -445,7 +445,7 @@ By [Marc Weistroff](https://connect.symfony.com/profile/futurecat)
   <dd>The world of Javascript is vast and exciting... but it can also be quite scary! It is an innovative world in which new technologies appear all the time, which can make it difficult for developers to keep up to date. One of the most famous of these technologies is probably React JS. It changed the way we conceive User Interfaces, both in the browser and in mobile applications. But understanding it can be challenging. Let's demystify it together so that you can enter the world of Javascript with confidence!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/tgalopin/demystifying-react-for-symfony-developers)  
 ~~Video~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
