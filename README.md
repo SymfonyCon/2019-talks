@@ -56,7 +56,7 @@ What we'll discuss:
 </dd>
 </dl>
 
-[Slides](https://speakerdeck.com/vudaltsov/how-to-contribute-to-symfony-and-why-you-should-give-it-a-try)
+[Slides](https://speakerdeck.com/vudaltsov/how-to-contribute-to-symfony-and-why-you-should-give-it-a-try)  
 ~~Video~~
 
 By [Valentin Udaltsov](https://connect.symfony.com/profile/vudaltsov)  
