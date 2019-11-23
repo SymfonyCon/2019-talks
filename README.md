@@ -617,3 +617,19 @@ By [Romaric Drigon](https://connect.symfony.com/profile/romaricdrigon)
 ![github](icon/github.png) [@romaricdrigon](https://github.com/romaricdrigon)  
 ![twitter](icon/twitter.png) [@romaric](https://twitter.com/romaricdrigon)
 
+
+--- 
+
+## 10 lessons from symfony ecosystem that you can apply to your team/project
+
+<dl>
+  <dt>Description</dt>
+  <dd>What I want to show you? That you can benefit not only from the symfony code itself or presentations on SymfonyCon. There's more.</dd>
+</dl>
+
+[Slides](https://www.slideshare.net/jerzyzawadzki/10-lessons-from-symfony-ecosystem-that-you-can-apply-to-your-team-project)
+
+By [Jerzy Zawadzki](https://connect.symfony.com/profile/jzawadzki)  
+![github](icon/github.png) [@jzawadzki](https://github.com/jzawadzki)  
+![twitter](icon/twitter.png) [@jerzy_zawadzki](https://twitter.com/jerzy_zawadzki)
+
