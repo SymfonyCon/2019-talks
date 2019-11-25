@@ -483,7 +483,7 @@ We'll also talk about the many new features that were added to Messenger since S
 Let's get to work with Messenger!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/weaverryan/prime-time-with-messenger-queues-workers-and-more-fun)
 ~~Video~~
 
 By [Ryan Weaver](https://connect.symfony.com/profile/weaverryan)  
