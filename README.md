@@ -463,7 +463,7 @@ By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
 Hopefully you’ll learn how you can make sure to get optimal performance, what opportunities exists, and which pitfalls to try to avoid.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/andreromcke/symfonycon-2019-head-first-into-symfony-cache-redis-redis-cluster)
 ~~Video~~
 
 By [Andre Rømcke](https://connect.symfony.com/profile/andrerom)  
