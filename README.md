@@ -72,7 +72,7 @@ By [Valentin Udaltsov](https://connect.symfony.com/profile/vudaltsov)
   <dd>This talk is about how PHP works. We'll learn together how PHP compiles, optimizes then executes your scripts, both in the Web environment and CLI apps. We'll dive into PHP's source code - written in C - to extract some parts of interest and study them to better understand PHP's behaviors as well as best practices in terms of performances (CPU cycles and memory allocations).</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/jpauli/php-engine/)  
 ~~Video~~
 
 By [Julien Pauli](https://connect.symfony.com/profile/jpauli)  
