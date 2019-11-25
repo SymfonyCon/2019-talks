@@ -633,3 +633,17 @@ By [Jerzy Zawadzki](https://connect.symfony.com/profile/jzawadzki)
 ![github](icon/github.png) [@jzawadzki](https://github.com/jzawadzki)  
 ![twitter](icon/twitter.png) [@jerzy_zawadzki](https://twitter.com/jerzy_zawadzki)
 
+--- 
+
+## Schema Design for E-Commerce
+
+<dl>
+  <dt>Description</dt>
+  <dd>Replacing Transactions with MongoDB</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/alcaeus/schema-design-for-e-commerce)
+
+By [Andreas Braun](https://connect.symfony.com/profile/alcaeus)  
+![github](icon/github.png) [@alcaeus](https://github.com/alcaeus)  
+![twitter](icon/twitter.png) [@alcaeus](https://twitter.com/alcaeus)
