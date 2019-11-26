@@ -241,7 +241,7 @@ By [Diana Ungaro Arnos](https://connect.symfony.com/profile/dianaarnos)
 In this talk, I will go through exactly what happens, down to excruciating detail, so that you will be better prepared for your future job interview.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.slideshare.net/tobiassjosten/what-happens-when-i-press-enter)  
 ~~Video~~
 
 By [Tobias Sjösten](https://connect.symfony.com/profile/tobiassjosten)  
