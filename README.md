@@ -571,7 +571,7 @@ This interactive talk, intended for any developer of any level, will give you so
 Will you help lift your team’s performance or run DevCorp into the ground?</dd>
 </dl>
 
-[Slides](http://pauline-vos.nl/dev-corp/)
+[Slides](http://pauline-vos.nl/dev-corp/)  
 ~~Video~~
 
 By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)  
