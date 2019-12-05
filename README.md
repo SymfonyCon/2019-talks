@@ -6,7 +6,7 @@
 ## Keynote
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/keynote)
 
 By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
 ![github](icon/github.png) [@fabpot](https://github.com/fabpot)  
@@ -30,7 +30,7 @@ We will cover as well how technically this version works, and what it will bring
 </dl>
 
 [Slides](https://speakerdeck.com/bitone/3)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/http-3-its-all-about-the-transport)
 
 By [Benoit Jacquemont](https://connect.symfony.com/profile/bit_one)  
 ![github](icon/github.png) [@BitOne](https://github.com/BitOne)  
@@ -57,7 +57,7 @@ What we'll discuss:
 </dl>
 
 [Slides](https://speakerdeck.com/vudaltsov/how-to-contribute-to-symfony-and-why-you-should-give-it-a-try)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/how-to-contribute-to-symfony-and-why-you-should-give-it-a-try)
 
 By [Valentin Udaltsov](https://connect.symfony.com/profile/vudaltsov)  
 ![github](icon/github.png) [@vudaltsov](https://github.com/vudaltsov)  
@@ -73,7 +73,7 @@ By [Valentin Udaltsov](https://connect.symfony.com/profile/vudaltsov)
 </dl>
 
 [Slides](https://www.slideshare.net/jpauli/php-engine/)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/a-view-in-the-php-virtual-machine)
 
 By [Julien Pauli](https://connect.symfony.com/profile/jpauli)  
 ![github](icon/github.png) [@jpauli](https://github.com/jpauli)  
@@ -93,7 +93,7 @@ When you have done everything to avoid these pitfalls, you can bring in the big 
 </dl>
 
 [Slides](https://speakerdeck.com/coudenysj/how-doctrine-caching-can-skyrocket-your-application-symfonycon-amsterdam-2019)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/how-doctrine-caching-can-skyrocket-your-application)
 
 By [Jachim Coudenys](https://connect.symfony.com/profile/coudenysj)  
 ![github](icon/github.png) [@coudenysj](https://github.com/coudenysj)  
@@ -111,7 +111,7 @@ This is a real happy use case story where I will show you how we did this, and h
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/using-the-workflow-component-for-e-commerce)
 
 By [Michelle Sanver](https://connect.symfony.com/profile/michellesanver)  
 ![github](icon/github.png) [@michellesanver](https://github.com/michellesanver)  
@@ -127,7 +127,7 @@ By [Michelle Sanver](https://connect.symfony.com/profile/michellesanver)
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/1cTDYd4tNHH37MKbNEm1jqdMW-NcqaVU2MLIsUWtCs7k/)  
-~~Video~~  
+[Video](https://symfonycasts.com/screencast/symfonycon2019/crazy-fun-experiments-with-php-not-for-production) 
 [Code](https://github.com/zanbaldwin/sfcon19)
 
 By [Zan Baldwin](https://connect.symfony.com/profile/zanbaldwin)  
@@ -146,7 +146,7 @@ In this talk I will explain an architectural style called "Hexagonal Architectur
 </dl>
 
 [Slides](https://www.slideshare.net/matthiasnoback/hexagonal-symfony-symfonycon-amsterdam-2019)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/hexagonal-architecture-with-symfony)
 
 By [Matthias Noback](https://connect.symfony.com/profile/mnoback)  
 ![github](icon/github.png) [@matthiasnoback](https://github.com/matthiasnoback)  
@@ -166,7 +166,7 @@ In this talk we'll use the Symfony's HttpClient, Messenger and Panther to build 
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/crawling-the-web-with-the-new-symfony-components)
 
 By [Adiel Cristo](https://connect.symfony.com/profile/arcristo)  
 ![github](icon/github.png) [@adielcristo](https://github.com/adielcristo)  
@@ -186,7 +186,7 @@ This talk is a case history in which I will tell you (with little theory and a l
 </dl>
 
 [Slides](https://alessandrolai.dev/slides/2019-11-event-sourcing-symfonycon/)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/adding-event-sourcing-to-an-existing-php-project-for-the-right-reasons)
 
 By [Alessandro Lai](https://connect.symfony.com/profile/jean85)  
 ![github](icon/github.png) [@Jean85](https://github.com/Jean85)  
@@ -208,7 +208,7 @@ HATEOAS is the new hype!</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/dunglas/2-server-push-and-the-rise-of-client-driven-rest-apis)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/hypermedia-leveraging-http-2-and-symfony-for-better-and-faster-web-apis)
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
 ![github](icon/github.png) [@dunglas](https://github.com/dunglas)  
@@ -224,7 +224,7 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 </dl>
 
 [Slides](https://speakerdeck.com/dianaarnos/php-symfony-and-security)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/php-symfony-and-security)
 
 By [Diana Ungaro Arnos](https://connect.symfony.com/profile/dianaarnos)  
 ![github](icon/github.png) [@dianaarnos](https://github.com/dianaarnos)  
@@ -242,7 +242,7 @@ In this talk, I will go through exactly what happens, down to excruciating detai
 </dl>
 
 [Slides](https://www.slideshare.net/tobiassjosten/what-happens-when-i-press-enter)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/what-happens-when-i-press-enter)
 
 By [Tobias Sjösten](https://connect.symfony.com/profile/tobiassjosten)  
 ![github](icon/github.png) [@tobiassjosten](https://github.com/tobiassjosten)  
@@ -260,7 +260,7 @@ In this talk, we'll review all the ways to store configuration, which is best fo
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://symfonycasts.com/screencast/symfonycon2019/configuring-symfony-from-localhost-to-high-availability)  
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
 ![github](icon/github.png) [@nicolas-grekas](https://github.com/nicolas-grekas)  
@@ -278,7 +278,7 @@ My hope is that when you return to work on monday, you will bring some new tools
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://symfonycasts.com/screencast/symfonycon2019/http-caching-with-symfony-101) 
 [Code](https://github.com/webfactory/symfony-http-caching-demo)
 
 By [Matthias Pigulla](https://connect.symfony.com/profile/mpdude)  
@@ -297,7 +297,7 @@ In this talk I speak both about the science behind fitness and nutrition, and my
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/how-fitness-helps-you-become-a-better-developer)
 
 By [Magnus Nordlander](https://connect.symfony.com/profile/magnusnordlander)  
 ![github](icon/github.png) [@magnusnordlander](https://github.com/magnusnordlander)  
@@ -313,7 +313,7 @@ By [Magnus Nordlander](https://connect.symfony.com/profile/magnusnordlander)
 </dl>
 
 [Slides](https://thephp.cc/presentations/2019-symfonycon-phpunit-best-practices.pdf)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/phpunit-best-practices)
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
 ![github](icon/github.png) [@sebastianbergmann](https://github.com/sebastianbergmann)  
@@ -331,7 +331,7 @@ We had to tackle problems regarding the implementation of tax laws in 18 differe
 </dl>
 
 [Slides](https://speakerdeck.com/antonioperic/using-api-platform-to-build-ticketing-system-number-symfonycon)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/using-api-platform-to-build-ticketing-system)
 
 By [Antonio Peric-Mazar](https://connect.symfony.com/profile/antonioperic)  
 ![github](icon/github.png) [@antonioperic](https://github.com/antonioperic)  
@@ -349,7 +349,7 @@ In this presentation, I will talk about how extensively we use Twig in a complex
 </dl>
 
 [Slides](https://www.slideshare.net/AndreyYatsenco/make-the-most-of-twig-196422158)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/make-the-most-out-of-twig)
 
 By [Andrii Yatsenko](https://connect.symfony.com/profile/andrey)  
 ![github](icon/github.png) [@anyt](https://github.com/anyt)  
@@ -365,7 +365,7 @@ By [Andrii Yatsenko](https://connect.symfony.com/profile/andrey)
 </dl>
 
 [Slides](https://speakerdeck.com/skoop/mental-health-in-the-workplace-symfonycon-2019-amsterdam)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/mental-health-in-the-workplace)
 
 By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)  
 ![github](icon/github.png) [@skoop](https://github.com/skoop)  
@@ -381,7 +381,7 @@ By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/importing-bad-data-outputting-good-data-with-symfony)
 
 By [Michelle Sanver](https://connect.symfony.com/profile/michellesanver)  
 ![github](icon/github.png) [@michellesanver](https://github.com/michellesanver)  
@@ -399,7 +399,7 @@ The Symfony Serializer Component makes it possible to manage how you want to ser
 </dl>
 
 [Slides](https://speakerdeck.com/jucabrera/symfony-serializer-component)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/symfony-serializer-there-and-back-again)
 
 By [Juciellen Cabrera](https://connect.symfony.com/profile/jucycabrera)  
 ![github](icon/github.png) [@jucabrera](https://github.com/jucabrera)  
@@ -415,7 +415,7 @@ By [Juciellen Cabrera](https://connect.symfony.com/profile/jucycabrera)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/eeek-my-tests-are-mutating)
 
 By [Lander Vanderstraeten](https://connect.symfony.com/profile/landerstraeten)  
 ![github](icon/github.png) [@Landerstraeten](https://github.com/Landerstraeten)  
@@ -431,7 +431,7 @@ By [Lander Vanderstraeten](https://connect.symfony.com/profile/landerstraeten)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://symfonycasts.com/screencast/symfonycon2019/integrating-performance-management-in-your-development-cycle) 
 
 By [Marc Weistroff](https://connect.symfony.com/profile/futurecat)  
 ![github](icon/github.png) [@marcw](https://github.com/marcw)
@@ -446,7 +446,7 @@ By [Marc Weistroff](https://connect.symfony.com/profile/futurecat)
 </dl>
 
 [Slides](https://speakerdeck.com/tgalopin/demystifying-react-for-symfony-developers)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/demystifying-react-js-for-symfony-developers)
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
 ![github](icon/github.png) [@tgalopin](https://github.com/tgalopin)  
@@ -464,7 +464,7 @@ Hopefully you’ll learn how you can make sure to get optimal performance, what 
 </dl>
 
 [Slides](https://www.slideshare.net/andreromcke/symfonycon-2019-head-first-into-symfony-cache-redis-redis-cluster)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/head-first-into-symfony-cache-redis-redis-cluster)
 
 By [Andre Rømcke](https://connect.symfony.com/profile/andrerom)  
 ![github](icon/github.png) [@andrerom](https://github.com/andrerom)  
@@ -484,7 +484,7 @@ Let's get to work with Messenger!</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/weaverryan/prime-time-with-messenger-queues-workers-and-more-fun)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/prime-time-with-messenger-queues-workers-more-fun)
 
 By [Ryan Weaver](https://connect.symfony.com/profile/weaverryan)  
 ![github](icon/github.png) [@weaverryan](https://github.com/weaverryan)  
@@ -500,7 +500,7 @@ By [Ryan Weaver](https://connect.symfony.com/profile/weaverryan)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/symfonycloud-the-infrastructure-of-the-symfony-ecosystem)
 
 By [Tugdual Saunier](https://connect.symfony.com/profile/tucksaun)  
 ![github](icon/github.png) [@tucksaun](https://github.com/tucksaun)  
@@ -516,7 +516,7 @@ By [Tugdual Saunier](https://connect.symfony.com/profile/tucksaun)
 </dl>
 
 [Slides](https://speakerdeck.com/gregoirehebert/together-toward-an-ai-plus-ultra)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/together-towards-an-ai-neat-plus-ultra)
 
 By [Grégoire Hébert](https://connect.symfony.com/profile/gregoirehebert)  
 ![github](icon/github.png) [@GregoireHebert](https://github.com/GregoireHebert)  
@@ -536,7 +536,7 @@ No, this is not a Varnish talk.</dd>
 </dl>
 
 [Slides](https://nyholm.tech/media/building-really-fast-applications/sfcon-amsterdam.pdf)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/building-really-fast-applications)
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
 ![github](icon/github.png) [@Nyholm](https://github.com/Nyholm)  
@@ -552,7 +552,7 @@ By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)
 </dl>
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/everything-you-wanted-to-know-about-sylius-but-didn-t-find-time-to-ask)
 
 By [Łukasz Chruściel](https://connect.symfony.com/profile/lchrusciel)  
 ![github](icon/github.png) [@lchrusciel](https://github.com/lchrusciel)  
@@ -572,7 +572,7 @@ Will you help lift your team’s performance or run DevCorp into the ground?</dd
 </dl>
 
 [Slides](http://pauline-vos.nl/dev-corp/)  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/devcorp-choose-your-own-adventure)
 
 By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)  
 ![github](icon/github.png) [@paulinevos](https://github.com/paulinevos)  
@@ -583,7 +583,7 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
 ## One Year of Symfony
 
 ~~Slides~~  
-~~Video~~
+[Video](https://symfonycasts.com/screencast/symfonycon2019/one-year-of-symfony)
 
 By [Zan Baldwin](https://connect.symfony.com/profile/zanbaldwin)  
 ![github](icon/github.png) [@zanbaldwin](https://github.com/zanbaldwin)  
