@@ -296,7 +296,7 @@ By [Matthias Pigulla](https://connect.symfony.com/profile/mpdude)
 In this talk I speak both about the science behind fitness and nutrition, and my personal journey of losing over 70 kgs, starting to go to the gym, how it affected me as a developer, as well as the shocking secret behind what happened to the Sound of Symfony podcast.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://github.com/SymfonyCon/2019-talks/files/3944384/Fitness.pdf)  
 [Video](https://symfonycasts.com/screencast/symfonycon2019/how-fitness-helps-you-become-a-better-developer)
 
 By [Magnus Nordlander](https://connect.symfony.com/profile/magnusnordlander)  
