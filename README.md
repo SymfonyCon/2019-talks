@@ -414,7 +414,7 @@ By [Juciellen Cabrera](https://connect.symfony.com/profile/jucycabrera)
   <dd>Writing tests is nice, but how are you sure that your tests cover all use cases? Code coverage can give false positive metrics. A new way of working that goes by the name of mutation testing has gained a lot of popularity lately. This talk will explain you what it is, how you can integrate it and contains a demo over the basics of mutation testing with infection and phpspec.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://landerstraeten.github.io)  
 [Video](https://symfonycasts.com/screencast/symfonycon2019/eeek-my-tests-are-mutating)
 
 By [Lander Vanderstraeten](https://connect.symfony.com/profile/landerstraeten)  
